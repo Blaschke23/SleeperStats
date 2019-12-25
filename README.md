@@ -1,7 +1,7 @@
 # SleeperStats
 Uses Sleeper's API to explore league and player stats
 
-Requirements:
-pandas
-sleeper-api-wrapper
+Requirements: \n
+pandas \n
+sleeper-api-wrapper \n
 scipy
